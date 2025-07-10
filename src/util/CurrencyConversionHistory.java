@@ -1,7 +1,7 @@
 package util;
 
 import java.util.ArrayList;
-import java.util.Currency;
+import model.Currency;
 import java.util.List;
 
 public class CurrencyConversionHistory {
